@@ -134,8 +134,6 @@ win.onkeypress(paddle_b_up, "Up")
 win.onkeypress(paddle_b_down, "Down")
 
 
-print(border.getRight())
-
 
 while True:
     win.update()
