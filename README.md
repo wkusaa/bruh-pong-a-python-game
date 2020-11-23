@@ -1,6 +1,6 @@
 <h1>Bruh Pong</h1>
 
-![alt text](https://github.com/Xiel7/Refueling-Event/blob/main/git_images/bruh_pong.jpg?raw=true)
+![alt text](https://github.com/Xiel7/bruh_pong/blob/master/git_images/bruh_pong.jpg?raw=true)
 <h2>Why Bruh Pong?</h2>
 <p> Cause im bored bruh </p>
 
@@ -11,4 +11,4 @@
 3. CD (Change Directory into the file of the game <br> 
 4. Type the command below (You need python btw)</p>
 
-![alt text](https://github.com/Xiel7/Refueling-Event/blob/main/git_images/cmd.jpg?raw=true)
+![alt text](https://github.com/Xiel7/bruh_pong/blob/master/git_images/cmd.jpg?raw=true)
