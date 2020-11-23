@@ -8,7 +8,7 @@
 <p><br> 
 1. Download the file <br> 
 2. Open CMD <br>
-3. CD (Change Directory into the file of the game <br> 
+3. CD (Change Directory into the file of the game) <br> 
 4. Type the command below (You need python btw)</p>
 
 ![alt text](https://github.com/Xiel7/bruh_pong/blob/master/git_images/cmd.jpg?raw=true)
